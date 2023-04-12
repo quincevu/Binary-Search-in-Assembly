@@ -1,3 +1,0 @@
-lui a0, 0xABCD1
-addi a0, a0, 0x7FF
-addi a0, a0, 0x7FF
